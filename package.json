@@ -1,0 +1,19 @@
+{
+  "name": "g3d_xpbuildsrv",
+  "version": "1.0.0",
+  "description": "Windows XP G3D-Fun Build Server",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottbeebiwan/g3d_xpbuildsrv.git"
+  },
+  "author": "ScottBeebiWan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottbeebiwan/g3d_xpbuildsrv/issues"
+  },
+  "homepage": "https://github.com/scottbeebiwan/g3d_xpbuildsrv#readme"
+}
